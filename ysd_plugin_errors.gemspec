@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.description = "Sinatra middleware that manages errors and exceptions using templates configured in the views directory"
   s.summary = "Error management plugin"
   
-  s.add_runtime_dependency "ysd_plugin_site"  # Page serving
+  s.add_runtime_dependency "ysd_plugin_cms"  # Page serving
   
 end
